@@ -1,11 +1,11 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Nhan Pham
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[LINK TO YOUR PUBLISHED SITE](https://n2pham.github.io/Lab5/)
 
 ## Part 2:
 
