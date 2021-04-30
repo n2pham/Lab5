@@ -9,4 +9,6 @@ LINK TO YOUR PUBLISHED SITE
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+[LINK TO YOUR PART 2 REPOSITORY](https://github.com/n2pham/github-actions-for-ci)
+
+[LINK TO ISSUE](https://github.com/n2pham/github-actions-for-ci/issues)
