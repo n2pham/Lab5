@@ -11,4 +11,4 @@
 
 [LINK TO YOUR PART 2 REPOSITORY](https://github.com/n2pham/github-actions-for-ci)
 
-[LINK TO ISSUE](https://github.com/n2pham/github-actions-for-ci/issues)
+[LINK TO ISSUE]https://github.com/n2pham/github-actions-for-ci/issues/7
